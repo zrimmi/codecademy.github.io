@@ -1,19 +1,20 @@
 * {
     font-family: Helvetica, Arial, sans serif;
     margin: auto;
+    text-align: center;
 }
 
 h1 {
     color: seagreen;
-    text-align: center;
+
 }
 
 h2 {
-    text-align: center;
+
 }
 
 p {
-    text-align: center;
+    
 }
 
 a {
