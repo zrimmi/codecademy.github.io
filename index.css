@@ -4,6 +4,7 @@
 
 h1 {
     color: seagreen;
+    text-align: center;
 }
 
 a {
@@ -11,6 +12,9 @@ a {
 }
 
 img {
+    diplay: block;
+    margin-left: auto;
+    margin-right: auto;
     height: 20%;
     width: 20%;
     border-radius: 100%;
