@@ -28,14 +28,26 @@ img {
     margin-top: 75px;
 }
 
+.aboutme p {
+    width: 600px;
+    height: fit-content;
+    margin: auto;
+}
+
 .aboutme ul {
     display: block;
+    width: fit-content;
+    height: fit-content;
     background-color: aquamarine;
     border-radius:25px;
     padding: 10px;
+    margin: auto;
+    border: 2px solid #8C92AC;
+    
 }
 
 #hobbies li {
     text-align: left;
     font-weight: bold;
+    vertical-align: middle;
 }
