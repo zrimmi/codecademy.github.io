@@ -1,20 +1,11 @@
 * {
-    font-family: Helvetica, Arial, sans serif;
+    font-family: Helvetica, Arial, serif;
     margin: 20px;
     text-align: center;
 }
 
-h1 {
+.intro h1 {
     color: seagreen;
-
-}
-
-h2 {
-
-}
-
-p {
-    
 }
 
 a {
@@ -22,10 +13,29 @@ a {
 }
 
 img {
-    diplay: block;
     margin-left: auto;
     margin-right: auto;
     height: 200px;
     width: 200px;
     border-radius: 100%;
+}
+
+.aboutme {
+    font-family: Helvetica, sans serif;
+}
+
+.aboutme h2 {
+    margin-top: 75px;
+}
+
+.aboutme ul {
+    display: block;
+    background-color: aquamarine;
+    border-radius:25px;
+    padding: 10px;
+}
+
+#hobbies li {
+    text-align: left;
+    font-weight: bold;
 }
